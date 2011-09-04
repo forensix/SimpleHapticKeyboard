@@ -1,0 +1,9 @@
+Package: com.manuelgebele.SimpleHapticKeyboard
+Name: SimpleHapticKeyboard
+Depends: mobilesubstrate
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: Simple Haptic Keyboard
+Maintainer: Manuel Gebele
+Author: Manuel Gebele
+Section: Tweaks
